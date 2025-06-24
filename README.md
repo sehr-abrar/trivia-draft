@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-[YouTube Walkthrough]](https://youtube.com/shorts/lrsOheeiHzE?feature=share)
+[YouTube Walkthrough](https://youtube.com/shorts/lrsOheeiHzE?feature=share)
 
 ## Notes
 
