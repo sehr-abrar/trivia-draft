@@ -1,6 +1,4 @@
-# Project 3 - *Trivia*
-
-Submitted by: **Sehr Abrar**
+# *Trivia Draft*
 
 **Trivia** is an app that displays a series of multiple-choice questions to the user, allowing them to select an answer, view the next question, and track their progress through the quiz.
 
